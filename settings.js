@@ -12,7 +12,7 @@ global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '923439458696'  //creator number
 global.ownername = 'DARK-MD' //owner name
-global.botname = '🕷Venom-2🕷' //name of the bot
+global.botname = '🕷CR7-MD'🕷' //name of the bot
 
 //sticker details
 global.packname = 'SUII🐐'
